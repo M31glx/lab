@@ -1,0 +1,47 @@
+# GENERATED AUTOMATICALLY, DO NOT EDIT
+- id: 10.1371/journal.pone.0262563
+  title: A callosal biomarker of behavioral intervention outcomes for autism spectrum disorder? A case-control feasibility study with diffusion tensor imaging
+  authors:
+  - Javier Virues-Ortega
+  - Nicole S. McKay
+  - Jessica C. McCormack
+  - Nerea Lopez
+  - Rosalie Liu
+  - Ian Kirk
+  publisher: Plos One
+  date: '2022-02-03'
+  link: https://doi.org/10.1371/journal.pone.0262563
+  image: https://meghanvdmeer.github.io/M.I.N.DLab/images/journal_covers/plosone.png
+  extra-links:
+  - type: pdf
+    link:  pdfs/2022_Virues-Ortega_etal_PlosOne.pdf
+  tags:
+  - ASD
+  - DTI
+  
+- id: 10.1016/j.ejmp.2022.06.2012
+  title: Reproducibility and repeatability of magnetic resonance imaging in dementia
+  authors:
+  - Catherine A. Morgan
+  - Reece P. Roberts
+  - Tessa Chaffey
+  - Lenore Tahara-Eckl
+  - Meghan van der Meer
+  - Matthias Gunther
+  - Timothy J. Anderson
+  - Nicholas J. Cutfield
+  - John C. Dalrymple-Alford
+  - Ian Kirk
+  - Donna Rose Addis
+  - Lynette Tippett
+  -Tracy R. Melzer
+  publisher: Elsevier
+  date: '2022-06-27'
+  link: https://doi.org/10.1016/j.ejmp.2022.06.2012
+  image: https://meghanvdmeer.github.io/M.I.N.DLab/images/journal_covers/plosone.png
+  extra-links:
+  - type:
+    link:  
+  tags:
+  - Dementia
+  - MRI

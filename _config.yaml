@@ -1,0 +1,88 @@
+# site properties and page defaults
+title: M.I.N.D Lab
+description: Memory, Imaging, Networks and Dynamics Lab
+header: images/Footer.png
+footer: /images/Footer.png
+
+# site nav bar
+nav:
+  - link: publications
+    tooltip: Published works
+  - research:
+    tooltip: Research interests
+  - teaching:
+    tooltip: Teaching
+  - link: team
+    tooltip: About our team
+  - link: news
+    tooltip: News and commentary
+  - link: join
+    tooltip: Join the lab
+  - link: contact
+    tooltip: Email, address, and location
+
+
+# base directory where site is hosted
+logo: /images/Brain.png
+header: /images/Footer.png
+footer: /images/Footer.png
+baseurl: /
+
+# site social media and other links
+links:
+  email: i.kirk@auckland.ac.nz
+  google-scholar: 
+  github: 
+  twitter: 
+  instagram: 
+
+### advanced settings
+
+# default front matter parameters for markdown files
+defaults:
+  # all markdown files
+  - scope:
+      path: ""
+    values:
+      layout: default
+  # markdown files in /_members
+  - scope:
+      type: "members"
+    values:
+      layout: member
+  # markdown files in /_posts
+  - scope:
+      type: "posts"
+    values:
+      layout: post
+
+# collections
+collections:
+  members:
+    output: true
+
+# sass settings
+sass:
+  sass_dir: css
+
+# syntax highlighting
+highlighter: rouge
+
+# plugins
+plugins:
+  - jekyll-redirect-from
+  - jekyll-feed
+  - jekyll-sitemap
+  # - jekyll-github-metadata
+  # - jekyll-avatar
+  # - jekyll-gist
+  # - jekyll-mentions
+  # - jekyll-relative-links
+  # - jemoji
+
+# jekyll theme
+theme: null
+
+
+# Google Analytics
+google_analytics: G-QF28DYFVNL
